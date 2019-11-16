@@ -1,5 +1,5 @@
 # ia-Tic-tac-toe-
-Build Status
+## Build Status
 
 ## Requirements
 pybrain==0.3
@@ -9,17 +9,18 @@ scipy==0.17
 
 Clone a copy of the repo:
 
-'''bash
+```bash
 git clone https://github.com/PauloThiagoMS/ia-Tic-tac-toe-.git
-'''
+```
 
 Change to the ia-Tic-tac-toe directory:
-'''bash
+
+```bash
 cd ia-Tic-tac-toe-.git
-'''
+```
 
 ## Usage
 
-'''bash
+```bash
 python3 run.py
-'''
+```
